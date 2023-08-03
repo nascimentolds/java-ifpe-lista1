@@ -34,5 +34,6 @@ public class Questao5 {
         }
         
         System.out.printf("%d %s %d = %f", numero1, operador, numero2, operacao);
+
     }
 }

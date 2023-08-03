@@ -23,5 +23,6 @@ public class Questao1 {
         idade = anoAtual - anoNasc;
 
         System.out.printf("Você tem %d anos.", idade);
+
     }
 }

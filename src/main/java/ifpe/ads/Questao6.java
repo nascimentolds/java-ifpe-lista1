@@ -6,7 +6,7 @@ import java.util.Scanner;
 // vetor. Após o termino do programa, imprima as seguintes informações:
 //  O Número de pessoas que estão abaixo do peso (IMC < 18,5);
 //  O Número de pessoas que estão dentro do peso ideal (IMC > 18,5 e IMC < 25);
-//  O Número de pessoas que estão acima do peso (IMC > = 25)
+//  O Número de pessoas que estão acima do peso (IMC > = 25).
 public class Questao6 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);

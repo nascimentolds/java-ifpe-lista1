@@ -20,5 +20,6 @@ public class Questao2 {
         media = total / 5;
 
         System.out.printf("A média das alturas é %f", media);
+
     }
 }

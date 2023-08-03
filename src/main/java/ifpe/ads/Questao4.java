@@ -27,5 +27,6 @@ public class Questao4 {
         media = (float) total /(count);
 
         System.out.printf("A média das idades é %f", media);
+
     }
 }
