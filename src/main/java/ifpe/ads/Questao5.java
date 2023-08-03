@@ -6,7 +6,6 @@ package ifpe.ads;
 // Se o usuário digita ‘*’, retorne o resultado da multiplicação entre os números;
 // Se o usuário digita ‘/’, retorne o resultado da divisão entre os números;
 
-import java.util.Objects;
 import java.util.Scanner;
 
 public class Questao5 {

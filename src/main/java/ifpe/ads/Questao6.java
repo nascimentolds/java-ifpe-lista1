@@ -14,7 +14,7 @@ public class Questao6 {
         double peso;
         double altura;
         double imc;
-        double imcs[] = new double[5];
+        double[] imcs = new double[5];
 
         int pesoIdeal = 0;
         int acimaPeso = 0;
